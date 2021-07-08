@@ -54,7 +54,7 @@ title: Blocks
     {
       "type": "paragraph",
       "data": {
-        "text": "The default block is just a simple paragraph containing text content. Text can be easily <b>styled</b> using inline <i>styles</i>. Paragraphs can also be converted to lists or headlines.",
+        "text": "I edited text in GitHub here. The default block is just a simple paragraph containing text content. Text can be easily <b>styled</b> using inline <i>styles</i>. Paragraphs can also be converted to lists or headlines.",
         "large": false,
         "alignment": "left"
       }
